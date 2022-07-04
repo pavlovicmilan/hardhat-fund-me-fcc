@@ -8,10 +8,10 @@ import "./PriceConverter.sol";
 // 3. Interfaces, Libraries, Contracts
 error FundMe__NotOwner();
 
-/**@title A sample Funding Contract
- * @author Patrick Collins
- * @notice This contract is for creating a sample funding contract
- * @dev This implements price feeds as our library
+/**@title A conract for crowd funding
+ * @author Milan Pavlovic
+ * @notice This contract is to demo a sample funding contract
+ * @dev This implements price feeds as
  */
 contract FundMe {
     // Type Declarations
